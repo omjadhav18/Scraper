@@ -1,0 +1,8 @@
+# environment 
+venv/
+
+.venv
+venv/Lib
+venv/Scripts
+venv/pyvenv.cfg
+# venv/Lib/site-packages/asgiref_/_pycache__s/erver.cpython-311.pyc
